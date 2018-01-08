@@ -1,0 +1,29 @@
+{
+  "name": "visitdc",
+  "version": "1.0.0",
+  "description": "Visit DC is a visitors experience sharing site about Washington DC tourist attraction Sites.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zola4/visitDc.git"
+  },
+  "keywords": [
+    "vist",
+    "dc",
+    "visitdc",
+    "dcvisitor"
+  ],
+  "author": "Zola Tolera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zola4/visitDc/issues"
+  },
+  "homepage": "https://github.com/zola4/visitDc#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
